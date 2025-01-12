@@ -1,3 +1,3 @@
 # game
 Rock , Paper , Scissor game
-![game](game.png)
+<!--![game](game.png)-->
